@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Welcome to Caffeine Tracker</h1>
+<p>Visit <a href="/dashboard">dashboard</a> to get started</p>
+
+<style>
+	h1 {
+		color: var(--color-primary);
+	}
+</style>
